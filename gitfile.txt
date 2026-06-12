@@ -1,0 +1,13 @@
+Git Commands For Committing the Code :  Git Commands
+ 
+git status - To check for any changes in the code which is not committed
+ 
+git add . - To add all the un committed Code
+ 
+git pull - to pull the existing code from the branch
+ 
+git commit -m "message" - To add the commit messages
+ 
+git Push - To push the code to the branch
+ 
+git Branch - To check the Available branches
